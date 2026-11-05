@@ -1,0 +1,74 @@
+body {
+	margin: 24px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+
+.test {
+	margin-bottom: 32px;
+}
+
+.test__title {
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: #888;
+}
+
+.test__line {
+	margin: 6px 0;
+	font-size: 22px;
+	line-height: 1.4;
+}
+
+.test__line--roboto-100 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+}
+
+.test__line--roboto-250 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 250;
+}
+
+.test__line--roboto-400 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+
+.test__line--roboto-700 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+}
+
+.test__line--roboto-900 {
+	font-family: "Roboto", sans-serif;
+	font-weight: 900;
+}
+
+.test__line--roboto-stretch {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-stretch: 80%;
+}
+
+.test__line--roboto-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.test__line--sk-regular {
+	font-family: "Sk Modernist", sans-serif;
+	font-weight: 400;
+}
+
+.test__line--sk-bold {
+	font-family: "Sk Modernist", sans-serif;
+	font-weight: 700;
+}
+
+.test__line--sk-mono {
+	font-family: "Sk Modernist Mono", sans-serif;
+	font-weight: 400;
+}
